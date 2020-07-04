@@ -1,2 +1,2 @@
 # google_assignment_course3
-for course 3 assignment
+I am editing the README file. Adding some more details about the project description.
